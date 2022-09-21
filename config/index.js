@@ -96,7 +96,7 @@ export const config = {
 //     },
     {
       name: "宝贝小张",
-      id: "o3hT55-lMTXYJWoyeemjbL98dWeg",
+      id: "o3hT55wJCMYgYj0OcfaruzHhDi18",
       useTemplateId: "LuWGc-c2zd69Pv7HoGYp_Eyk1FPiL5SxvulcF95xCTw",
       province: "贵州",
       city: "贵阳",
