@@ -97,13 +97,13 @@ export const config = {
     {
       name: "宝贝小张",
       id: "o3hT55-lMTXYJWoyeemjbL98dWeg",
-      useTemplateId: "JuKzZYULZ3dEE8PwcI0ojLQEAN7Cv2Twp16dxnEcIdg",
+      useTemplateId: "LuWGc-c2zd69Pv7HoGYp_Eyk1FPiL5SxvulcF95xCTw",
       province: "贵州",
       city: "贵阳",
       horoscopeDate: '09-24',
       horoscopeDateType: '今日',
       openUrl: "https://wangxinleo.cn",
-      festivals: [{"type": "生日", "name": "小张", "year": "2000", "date": "09-24"}],
+      festivals: [{"type": "生日", "name": "小张", "year": "2000", "date": "09-24"},{"type": "生日", "name": "阿王", "year": "1998", "date": "08-05"}],
       customizedDateList: [{"keyword": "love_day", date: "2022-06-05"}]
     },
     {
@@ -139,7 +139,7 @@ export const config = {
    */
 
   // 【推送完成提醒】模板id, 用来看自己有没有发送成功的那个模板
-  CALLBACK_TEMPLATE_ID: "JuKzZYULZ3dEE8PwcI0ojLQEAN7Cv2Twp16dxnEcIdg",
+  CALLBACK_TEMPLATE_ID: "LuWGc-c2zd69Pv7HoGYp_Eyk1FPiL5SxvulcF95xCTw",
 
   // 接收成功回调消息的微信号，（一般来说只填自己的微信号, name填不填无所谓）
   CALLBACK_USERS: [
